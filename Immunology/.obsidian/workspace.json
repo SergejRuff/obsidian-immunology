@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "80339c4abccfbb61",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f01900acfce164c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd3ad69cfade4739",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b670cff5a3b44d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1bdbe8c28023a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0420fa65cc638b67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb912fac88396b54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34f65e96f4839c37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "789c52a064c8656a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c045649c8005345b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c13403b04573188",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35f4ba0b23f05120",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c938797ffb54b1f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "559c6c1a42449285",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd3ad69cfade4739",
+  "lastOpenFiles": [
+    "1VL/Was ist das Besondere am Immunsystem Alleinstellungsmerkmale.md",
+    "1VL/Buchempfehlung_literatur.md",
+    "1VL/Pasted image 20231220012316.png",
+    "1VL/Warum brauchen wir Immunschutz bzw. ein Immunsystem.md",
+    "1VL/Wie erkennt das Immunsystem eine Bedrohung Der Klassiker wer oder was ist gut und wer oder was ist böse.md",
+    "1VL/Wehren gegen was.md",
+    "1VL/Wozu brauchen wir das (immunologie) überhaupt - Wozu ist Immunologie wichtig.md",
+    "1VL/Pasted image 20231220011542.png",
+    "1VL/Pasted image 20231220010929.png",
+    "Untitled",
+    "1VL"
+  ]
+}
