@@ -1,0 +1,3 @@
+> CRISPR wurde in streptococcus pyogenes als Genschere entdeckt. Von Emmanuelle Charpentier als Genschere beschrieben, wofür Sie 2020 den Nobelpreis erhalten hat.
+> Paper dazu: https://pubmed.ncbi.nlm.nih.gov/30856357/
+> "Im Jahr 2011 veröffentlichte Emmanuelle Charpentier, die damals an der Universität Wien und der Umeå Universität forschte, und ihr Team eine entscheidende Studie im Fachmagazin Nature, in der sie die tracrRNA – zusammen mit CRISPR RNA und Cas9 – als zentrale Komponente der Aktivierung von CRISPR-Cas9 im Bakterium Streptococcus pyogenes und anderen Bakterien beschrieben. Ein Jahr später konnten die Forschenden zeigen, dass CRISPR-Cas9 ein Enzym ist, das aus tracrRNA und CRISPR-RNA besteht und DNA sequenzspezifisch schneiden kann."

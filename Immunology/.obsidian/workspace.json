@@ -11,8 +11,48 @@
             "id": "dd3ad69cfade4739",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1VL/Prinzipien des angeborenen und adaptiven Immunsystems (DieImmunantwort im Schnelldurchlauf).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70d9ec2e6d3d0e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1VL/Wichtigsten Zellen des Immunsystems (Leukozyten).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "738b575ce0db8f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1VL/Was ist der Unterschied zwischen adaptiven und angeborenen Immunsystem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c235adbf0a4b8ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1VL/Lymphoide Zellen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1VL/Prinzipien des angeborenen und adaptiven Immunsystems (DieImmunantwort im Schnelldurchlauf).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1VL/Prinzipien des angeborenen und adaptiven Immunsystems (DieImmunantwort im Schnelldurchlauf).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1VL/Prinzipien des angeborenen und adaptiven Immunsystems (DieImmunantwort im Schnelldurchlauf).md"
+              }
             }
           }
         ]
@@ -140,15 +184,34 @@
   },
   "active": "dd3ad69cfade4739",
   "lastOpenFiles": [
-    "1VL/Was ist das Besondere am Immunsystem Alleinstellungsmerkmale.md",
-    "1VL/Buchempfehlung_literatur.md",
-    "1VL/Pasted image 20231220012316.png",
-    "1VL/Warum brauchen wir Immunschutz bzw. ein Immunsystem.md",
-    "1VL/Wie erkennt das Immunsystem eine Bedrohung Der Klassiker wer oder was ist gut und wer oder was ist böse.md",
+    "1VL/Was ist das Besondere am Immunsystem 7 Alleinstellungsmerkmale.md",
+    "1VL/Dendritische Zellen.md",
+    "1VL/Was ist der Unterschied zwischen adaptiven und angeborenen Immunsystem.md",
+    "1VL/Lymphoide Zellen.md",
+    "1VL/Wichtigsten Zellen des Immunsystems (Leukozyten).md",
+    "Untitled.md",
+    "1VL/Pasted image 20231223191304.png",
+    "1VL/Myeloide Zellen.md",
+    "1VL/Pasted image 20231223190853.png",
+    "1VL/Pasted image 20231223185349.png",
+    "1VL/Pasted image 20231223185115.png",
+    "1VL/Pasted image 20231223183617.png",
     "1VL/Wehren gegen was.md",
+    "1VL/Warum brauchen wir Immunschutz bzw. ein Immunsystem.md",
+    "1VL/Prinzipien des angeborenen und adaptiven Immunsystems (DieImmunantwort im Schnelldurchlauf).md",
+    "1VL/Der Mensch als Nährboden für Mikrooganismen.md",
+    "1VL/Hauptklassen der Pathogenen.md",
+    "1VL/Info zu CRISPR-Cas Entdeckung.md",
+    "1VL/Kommensale Darmbakterien.md",
+    "1VL/Lymphoide Gewebe und Organe.md",
     "1VL/Wozu brauchen wir das (immunologie) überhaupt - Wozu ist Immunologie wichtig.md",
-    "1VL/Pasted image 20231220011542.png",
-    "1VL/Pasted image 20231220010929.png",
+    "1VL/Wie erkennt das Immunsystem eine Bedrohung Der Klassiker wer oder was ist gut und wer oder was ist böse.md",
+    "1VL/Pasted image 20231223182637.png",
+    "1VL/Pasted image 20231223182611.png",
+    "1VL/Pasted image 20231223182229.png",
+    "1VL/Pasted image 20231223181827.png",
+    "1VL/Pasted image 20231223181009.png",
+    "1VL/Buchempfehlung_literatur.md",
     "Untitled",
     "1VL"
   ]

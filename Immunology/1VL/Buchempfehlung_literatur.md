@@ -12,4 +12,3 @@ Buch Amazon Link: https://www.amazon.de/dp/3662560038/?coliid=I1EEKKHVKWIFG2&col
 - ISBN-10 ‏ : ‎ 3662560038
 - ISBN-13 ‏ : ‎ 978-3662534915
 
-10:50
