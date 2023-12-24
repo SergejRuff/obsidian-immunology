@@ -15,3 +15,7 @@ Es verbindet die Mechanismen des angeborenen Immunsystems mit den der adaptiven 
 Dendritische Zellen sind das Gaspedal des adaptiven Systems
 > Sie aktivieren es. Bringen es erst durch die Kopplung von adaptiven und angeborenen System zum Laufen
 > > Ohne Dendriten = Kein Adaptives Immunsystem!
+> 
+
+Dendritische Zellen können Antigene aufnehmen und zum Lymphknoten bringen.
+> Siehe [[Lymphknoten und System]]

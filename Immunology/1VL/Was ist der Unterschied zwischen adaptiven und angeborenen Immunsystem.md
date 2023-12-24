@@ -27,3 +27,10 @@ Angeborene System braucht seine Zeit
 
 Angeborene System ist nicht sehr spezifisch!
 > Erkennt nur Muster, aber keine genaue Antwort auf Antigene.
+
+
+Angeborene und Adaptive Immunantwort beginnen nicht am selben Ort
+> Angeborene passiert dort, wo die Infektion passiert
+> Erworbene Immunantwort beginnt in den lymphoiden Geweben
+> Siehe [[Lymphknoten und System]]
+> Siehe [[Lymphoide Gewebe und Organe]]
