@@ -91,3 +91,8 @@ Nicht aufgesammelte Antigene werden an der Medula gesammelt und verlassen lymphk
 Auch nicht aktivierte Immunzellen verlassen die Lymphknoten über die Medula und die efferenten Gefäße.
 
 ![[Pasted image 20231225003245.png]]
+
+Frage: Wie werden die meisten Pathogene/ Antigene aufgenommen:
+
+Siehe: [[Mukosa als Aufnahmeort von Antigenen und pathogenen]]
+> Mukosale Organe haben besondere Lymphknoten mit lokalen Besonderheiten, da Sie die Pathogene aufnehmen.

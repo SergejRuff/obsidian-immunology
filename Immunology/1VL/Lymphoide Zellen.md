@@ -18,6 +18,7 @@ Sie haben einen spezifischen Rezeptor.
 Frage: Wann ist eine lymphoide Zelle "naiv"?
 Lymphoide Zellen sind naiv, bevor Sie ihr Antigen präsentiert bekommen - das heißt, bevor Sie Kontakt haben mit dem Antigen.
 Nachdem Sie das Antigen präsentiert bekommen haben (Kontaktaufnahme), sind Sie aktive Effektorzellen oder auch Memoryzellen.
+Siehe [[T-Zellen erkennen Antigen nur in einer prozessierten Form Präsentation im Kontext von MHC]] für Aktivierung von T-zellen.
 
 > Siehe mehr zu [[B-Zellen]]
 > Siehe mehr zu [[T-Zellen]]
