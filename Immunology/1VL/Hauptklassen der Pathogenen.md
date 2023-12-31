@@ -32,4 +32,3 @@ Die wichtigsten nach Score sortiert:
 Campylobacter spp - Durchfallerkrankungen.
 Chlamydia trachomatis - chlamydien, sexuell übertragbare Erkrankung.
 
-30.38
