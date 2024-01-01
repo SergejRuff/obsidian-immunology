@@ -21,7 +21,7 @@ Man unterscheidet zwei Arten von Leukozyten (weißen Blutzellen):
 > 
 
 - Myeloide Zellen -> Granulozyten, Monozyten, dendritische Zellen
-> Monozyten entwickeln sich im Gewebe zu Makrophagen und Mastzellen
+> Monozyten entwickeln sich im Gewebe zu [[Makrophagen]] und Mastzellen
 > Dendritische Zellen sind eine wichtige Verbindungsstelle zwischen adaptiven und angeborenen Immunsystem
 > myeloiden Zellen spielen primär beim angeborenen Immunsystem eine wichtige Rolle 
 > [[Myeloide Zellen]]

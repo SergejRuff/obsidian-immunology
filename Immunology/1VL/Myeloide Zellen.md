@@ -1,3 +1,7 @@
+Unterkategorie von Leukozyten
+> Siehe [[Wichtigsten Zellen des Immunsystems (Leukozyten)]]
+
+
 Entstehen aus Common Myeloid Progenitor, der wiederum durch Hämatopoetische Stammzellen im Knochenmark gebildet wird.
 
 Lymphozyten -> Myeloide Zellen sind weiße Blutkörperchen

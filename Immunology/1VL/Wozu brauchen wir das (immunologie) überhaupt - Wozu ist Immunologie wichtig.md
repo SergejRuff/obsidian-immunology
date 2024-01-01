@@ -51,3 +51,8 @@ Merke: Warum muss man Immunologie lernen:
 > Abwehr gegen Pathogene verstehen (Infektionskrankheiten)
 > Autoimmunerkrankungen verstehen (unerwünschte Abwehr gegen eigenen Körper)
 > Krebsforschung verstehen (erwünschte Abwehr gegen eigenen Körper)
+
+
+![[Pasted image 20240101182352.png]]
+
+**Ob Immunantwort gut oder schlecht ist, hängt vom Kontext ab!**

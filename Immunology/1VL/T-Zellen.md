@@ -9,9 +9,13 @@ Das "T" in T-Zellen steht für Thymus, weil sich die Zellen im Thymus ausdiffere
 - Teil des angeborenen Immunsystems
 - Erkennen Antigene über T-Zell-Rezeptoren (TCR)
 
+T-Zellen können sich in unterschiedliche T-Zellen differenzieren, nachdem Sie durch Antigenkontakt aktiviert wurden.
 Es gibt zwei Arten von T-Zellen
 - Zytotoxische T-Zellen: Killt Zielzelle wie zum beispiel Virusinfizierte Zellen.
+> siehe [[Zytotoxische CD8 T Zellen töten spezifisch mit zum Beispiel von Viren infizierte Zellen ab]]
 - Helfer T-Zellen: Hilft z.B. Makrophagen oder B-Zellen bei der Umwandlung in Antikörper sezernierende Zellen.
+Siehe: [[T-Zellen können zu Helferzellen aureifen]]
+
 
 **Für Die Aktivierung von B und T-Zellen braucht man mindestens 2 unabhängige Signale** 
 > Das ist zum Schutz. Damit nicht unspezifisch B und T Zellen aktiv werden, wenn es eigentlich nicht gewollt ist.

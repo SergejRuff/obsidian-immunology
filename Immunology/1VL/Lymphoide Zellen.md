@@ -1,3 +1,5 @@
+Unterkategorie von Leukozyten /weiße Blutkörpern:
+> Siehe: [[Wichtigsten Zellen des Immunsystems (Leukozyten)]]
 
 
 ![[Pasted image 20231231160446.png]]
